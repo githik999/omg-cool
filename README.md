@@ -1,2 +1,2 @@
 # omg-cool
-cool is the mid laner at omg club. 
+cool is once the mid laner playing for omg club at LPL

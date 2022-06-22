@@ -1,0 +1,13 @@
+[package]
+name = "omg-cool"
+version = "0.1.2"
+edition = "2021"
+description = "a library use by *Lucian*(a crate)"
+license = "GPL-3.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+backtrace = "0.3"
+configparser = "3.0.0"
+enum-iterator = "1.1.2"
+mio = {version = "0.8.4",features = ["os-poll", "net"]}
